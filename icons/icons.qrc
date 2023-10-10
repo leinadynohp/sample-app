@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="main">
+    <file>home--arrow.png</file>
+  </qresource>
+  <qresource prefix="csv_reader">
+    <file>blue-document--plus.png</file>
+    <file>calendar-day.png</file>
+  </qresource>
+  <qresource prefix="buttons">
+    <file>cross.png</file>
+    <file>tick.png</file>
+  </qresource>
+</RCC>
